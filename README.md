@@ -72,8 +72,6 @@ Heatmap for features correlations
 |Airline customer satisfaction|   |   |   |   |
 |Customer will claim/not claim car insurance|   |   |   |   |
 
-
-
 Train vs Validation vs Test
 
 Datasets
