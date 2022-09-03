@@ -64,60 +64,13 @@ Heatmap for features correlations
 - Choose the best ML results based on average accuracy score in each data sets 
 - Hyperparamaters Tuning
 
-Datasets
-Best ML Model
-Best Parameters
-Accuracy score
-Training time (sec)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Datasets  |  Best ML Model   | Best Parameters  | Accuracy score  | Training time (sec)  |
+|-----------|------------------|------------------|-----------------|----------------------|
+|Wine quality   |   |   |   |   |
+|Credit card churn prediction|   |   |   |   |
+|Predict Bank term deposit campaign|   |   |   |   |
+|Airline customer satisfaction|   |   |   |   |
+|Customer will claim/not claim car insurance|   |   |   |   |
 
 
 
