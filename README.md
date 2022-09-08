@@ -140,6 +140,3 @@ The tuned deep learning model was applied to Train, Validate, and Test sets. The
 - 6410422035 (18%): Marketing Targets
 
 - This project is a part of subject DADS7202. Data Analytics and Data Science. NIDA
-
-
-
