@@ -37,7 +37,7 @@ In this study, all datasets were split into 3 sets (Test 20%, Train 70%, Validat
 | Dataset | No.of Train|No.of Validate|No.of Test|
 |----------|-------|-------|------|
 |Wine Quality|5,856|	837	|1,674|
-|Credit Card| | | |
+|Credit Card|11,900 |1,700|3,400|
 |Marketing Targets|55,890|	7,985|	15,969|
 |Airline Customer Satisfaction|72,732	|10,391	|20,781|
 |Car Insurance|9,354 |	1,337|	2,673|
